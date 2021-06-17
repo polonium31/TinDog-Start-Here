@@ -10,6 +10,6 @@ tinDog is a part of a course project named 100 Days of Code - The Complete Pytho
 
 ![alt text](/images/webpage.png)
 
-![alt text](/images/webpage_2.png)
+![alt text](/images/webpage_2.jpeg)
 
 
